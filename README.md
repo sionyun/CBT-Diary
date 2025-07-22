@@ -2,8 +2,6 @@
 Inspired by Cognitive Behavioral Therapy (CBT), this diary provides a safe space for users to log, organize, and look back on their emotional patterns.
 > ❗ This project is a **Work In Progress**. I'm building this as part of my mental health journey and technical portfolio — feel free to follow along!
 
----
-
 ## 📱 Features (Planned and Implemented)
 - ✅ Completed
 - 🔄 In Progress
@@ -18,12 +16,9 @@ Inspired by Cognitive Behavioral Therapy (CBT), this diary provides a safe space
   - Charts for emotion tracking
   - Cloud sync (Firebase or custom backend)
 
----
-
 ## 📷 Screenshots
 *(TODO - sketch -> Figma design -> Screenshot)*
 
----
 
 ## 🛠️ Built With
 - **Flutter**
